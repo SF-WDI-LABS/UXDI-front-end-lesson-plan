@@ -1,0 +1,40 @@
+h1 {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+.orange {
+  color: orange;
+}
+.green {
+  color: green;
+}
+.blue {
+  color: lightblue;
+}
+.purple {
+  color: purple;
+}
+
+.pretty {
+  max-width: 50%;
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  background-color: black;
+  color: white;
+  font-family: "Arial";
+  font-size: 1.5em;
+  border: 2px dashed #ddd;
+}
+
+ul {
+  background-color: black;
+  text-align: center;
+}
+body {
+  padding-left: 10px;
+}
