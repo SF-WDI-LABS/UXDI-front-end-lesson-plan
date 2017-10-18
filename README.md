@@ -64,6 +64,8 @@ we might also want to add more whitespace around some of these things on the pag
 
 and how do we attach that CSS to each element? so we saw that you can use the name of the element but like, what if you want only one of them to turn into a red one??? we can do that too! we use classes for that. can assign classes. use dots to say this style is about a class name now, not about a type of element. yay.
 
+oh and guess what the Chrome developer tools can ALSO help us see what's happening with CSS! just use the developer tools literally all the time!
+
 ok sweet now here's what i want you to build overall, GO.
 
 another like 10 minutes for writing your own CSS, then recap, then break.
