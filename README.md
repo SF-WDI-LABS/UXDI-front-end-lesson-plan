@@ -69,5 +69,3 @@ oh and guess what the Chrome developer tools can ALSO help us see what's happeni
 ok sweet now here's what i want you to build overall, GO.
 
 another like 10 minutes for writing your own CSS, then recap, then break.
-
-last thing: let's make sure you don't think that this is "normal" code. here's kyrel :D
